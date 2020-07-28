@@ -1,2 +1,3 @@
-# test1
-test1 desc
+atguigu_spirngcloud2020
+https://github.com/zzyybs/springcloud-config
+https://github.com/zzyybs/springcloud-config.git
